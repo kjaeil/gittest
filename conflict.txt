@@ -1,1 +1,2 @@
-master에서 수정
+<<<<<<< HEAD
+master and conflict에서 수정
